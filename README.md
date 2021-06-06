@@ -2,7 +2,7 @@
 An app to learn Miwok language from default English language. 
 
 ## Use The App
--> Download the given APK file into your android phone and start using it.
+-> Download the given APK file into your android phone and start using it.<br>
 -> Have Fun !!
 
 ### Tools and Languages Used:
